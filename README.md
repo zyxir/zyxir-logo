@@ -16,3 +16,7 @@ The list of my personal colors:
 
 - ![#008000](https://via.placeholder.com/15/008000/000000?text=+) `#008000` *green* - representing hope and being organized.
 - ![#8a2be2](https://via.placeholder.com/15/8a2be2/000000?text=+) `#8a2be2` *blueviolet* - representing speed, exploring, and hacking to me.
+
+Other colors:
+
+- ![#f8f8ff](https://via.placeholder.com/15/f8f8ff/000000?text=+) `#f8f8ff` *ghostwhite* - alternative to white as a background color.
