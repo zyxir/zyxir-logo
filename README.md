@@ -8,6 +8,11 @@ Current Version: 1.5 | [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa
 
 </div>
 
+| Variants | `normal`             | `favicon`                    | `monochrome`             |
+|----------|----------------------|------------------------------|--------------------------|
+| Picture  | ![](pngs/normal.png) | ![](pngs/favicon.png)        | ![](pngs/monochrome.png) |
+| Info     | The normal version   | Used as favicon for websites | Black and white version  |
+
 ## Design
 
 The core of the logo is a big `Z` (my favorite letter), which consists of two `7`s (my favorite number).
