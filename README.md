@@ -4,7 +4,7 @@
 
 The source files of my personal logo, under version control.
 
-Current Version: **1.5** | [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Current Version: **1.5.0** | [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
 
