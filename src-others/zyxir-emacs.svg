@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="384pt"
-   height="384pt"
-   viewBox="0 0 135.46667 135.46667"
+   width="512pt"
+   height="256pt"
+   viewBox="0 0 180.62223 90.311118"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.90298977"
      inkscape:cx="103.07838"
-     inkscape:cy="274.37473"
+     inkscape:cy="131.61979"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -76,13 +76,13 @@
     <image
        sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/bg-white.svg"
        xlink:href="../parts/bg-white.svg"
-       y="0"
-       x="8.8817842e-16"
-       id="image1007"
-       height="135.46666"
-       width="135.46666"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="180.62222"
+       height="90.311111"
+       id="image1007"
+       x="8.8817842e-16"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -91,23 +91,23 @@
     <image
        sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/core.svg"
        xlink:href="../parts/core.svg"
-       y="21.166666"
-       x="33.866665"
-       id="image931"
-       height="67.73333"
-       width="67.73333"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="45.155556"
+       height="45.155556"
+       id="image931"
+       x="11.288889"
+       y="22.577778" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#b380ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="24.403402"
-       y="113.6396"
+       style="font-style:normal;font-weight:normal;font-size:31.75px;line-height:1.25;font-family:sans-serif;fill:#b380ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.348057"
+       y="57.327824"
        id="text855"><tspan
          sodipodi:role="line"
          id="tspan853"
-         x="24.403402"
-         y="113.6396"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b380ff;stroke-width:0.264583">EMACS</tspan></text>
+         x="61.348057"
+         y="57.327824"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b380ff;stroke-width:0.264583">EMACS</tspan></text>
   </g>
 </svg>
