@@ -25,7 +25,3 @@ The list of my personal colors:
 Other colors:
 
 - ![#f8f8ff](https://via.placeholder.com/15/f8f8ff/000000?text=+) `#f8f8ff` *ghostwhite* - alternative to white as a background color.
-
-## Relevant Projects
-
-This project uses [Noto fonts](https://github.com/googlefonts/noto-fonts), a collection of beautiful, multilingual font by Google, under the [OFL-1.1 license](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
