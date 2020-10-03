@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="330"
-     inkscape:cy="557.14286"
+     inkscape:zoom="0.76337975"
+     inkscape:cx="312.261"
+     inkscape:cy="296.01918"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -76,13 +76,13 @@
     <image
        sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/bg-white.svg"
        xlink:href="../parts/bg-white.svg"
-       y="0"
-       x="8.8817842e-16"
-       id="image1007"
-       height="180.62231"
-       width="180.62199"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="180.62199"
+       height="180.62231"
+       id="image1007"
+       x="8.8817842e-16"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -91,12 +91,12 @@
     <image
        sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/core.svg"
        xlink:href="../parts/core.svg"
-       y="36.336113"
-       x="36.336113"
-       id="image931"
-       height="105.83334"
-       width="105.83334"
+       preserveAspectRatio="none"
        inkscape:svg-dpi="96"
-       preserveAspectRatio="none" />
+       width="105.83334"
+       height="105.83334"
+       id="image931"
+       x="37.394444"
+       y="37.394444" />
   </g>
 </svg>
