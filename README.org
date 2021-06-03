@@ -8,10 +8,11 @@ The source files of my personal logo, under version control.
 
 #+html: </div>
 
-| Variants | ~normal~             | ~favicon~             | ~monochrome~             |
-|----------+----------------------+-----------------------+--------------------------|
-| Picture  | [[file:pngs/normal.png]] | [[file:pngs/favicon.png]] | [[file:pngs/monochrome.png]] |
-| Info     | The normal version.  | Witha a bigger ~Z~.   | Black and white version. |
+| Variants     | Picture                  | Info                     |
+|--------------+--------------------------+--------------------------|
+| ~normal~     | [[file:pngs/normal.png]]     | The normal version.      |
+| ~favicon~    | [[file:pngs/favicon.png]]    | With a bigger Z.         |
+| ~monochrome~ | [[file:pngs/monochrome.png]] | Black and white version. |
 
 ** Design
 
@@ -20,7 +21,12 @@ The core of the logo is a big "Z" (my favorite letter), which consists of two
 
 The list of my personal colors:
 
-- [[https://via.placeholder.com/15/008000/000000?text=+]] ~#008000~ /green/ -
-  representing hope and being organized.
+- [[file:colortags/008000.png]] ~#008000~ /green/ - representing hope and being
+  organized.
+- [[file:colortags/8a2be2.png]] ~#8a2be2~ /blueviolet/ - representing speed,
+  exploring, and hacking.
 
 Other colors:
+
+- [[file:colortags/f8f8ff.png]] ~#f8f8ff~ /ghostwhite/ - alternative to white as a
+  background color.
