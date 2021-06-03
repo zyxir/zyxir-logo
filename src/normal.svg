@@ -15,9 +15,9 @@
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="normal.svg"
-   inkscape:export-filename="/home/zyxir/Documents/Ego/logo/pngs/normal.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="C:\Zybox\projects\ego\Information\Logo\pngs\normal.png"
+   inkscape:export-xdpi="35.999985"
+   inkscape:export-ydpi="35.999985">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -35,10 +35,10 @@
      inkscape:document-rotation="0"
      showgrid="false"
      units="pt"
-     inkscape:window-width="1920"
-     inkscape:window-height="1006"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="-9"
+     inkscape:window-y="209"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -74,29 +74,29 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/bg-white.svg"
+       sodipodi:absref="C:\Zybox\projects\ego\Information\Logo\parts\bg-white.svg"
        xlink:href="../parts/bg-white.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="180.62199"
-       height="180.62231"
-       id="image1007"
+       y="0"
        x="8.8817842e-16"
-       y="0" />
+       id="image1007"
+       height="180.62231"
+       width="180.62199"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
     <image
-       sodipodi:absref="/home/zyxir/Documents/Ego/logo/parts/core.svg"
+       sodipodi:absref="C:\Zybox\projects\ego\Information\Logo\parts\core.svg"
        xlink:href="../parts/core.svg"
-       preserveAspectRatio="none"
-       inkscape:svg-dpi="96"
-       width="105.83334"
-       height="105.83334"
-       id="image931"
+       y="37.394444"
        x="37.394444"
-       y="37.394444" />
+       id="image931"
+       height="105.83334"
+       width="105.83334"
+       inkscape:svg-dpi="96"
+       preserveAspectRatio="none" />
   </g>
 </svg>
