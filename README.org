@@ -1,3 +1,4 @@
+#+startup: showeverything inlineimages
 #+html: <div align="center">
 
 * Zyxir Logo
