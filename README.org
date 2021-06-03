@@ -1,4 +1,4 @@
-#+html: <p align="center">
+#+html: <div align="center">
 
 # Zyxir Logo
 
@@ -6,4 +6,4 @@ The source files of my personal logo, under version control.
 
 [[https://creativecommons.org/licenses/by-sa/4.0/][CC-BY-SA-4.0]]
 
-#+html: </p>
+#+html: </div>
